@@ -1,0 +1,26 @@
+README.md
+Makefile
+build/
+docs/
+examples/
+reports/
+support/
+test/
+Cakefile
+src/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac OS X
+.DS_Store
+
+# Node.js
+.npmignore
+node_modules/
+npm-debug.log
+
+# Git
+.git*

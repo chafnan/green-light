@@ -1,2 +1,2 @@
-green-light
+Green Light
 ===========
