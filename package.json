@@ -1,0 +1,29 @@
+{
+  "name": "green-light",
+  "version": "0.0.0",
+  "description": "Authorization",
+  "main": "./lib/green-light.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "cake test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chafnan/green-light.git"
+  },
+  "keywords": [
+    "authorization",
+    "security",
+    "user"
+  ],
+  "author": "Jonathan Chapman <chafnan@gmail.com> (https://github.com/chafnan)",
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/chafnan/green-light/blob/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/chafnan/green-light/issues"
+  }
+}
